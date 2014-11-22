@@ -1,0 +1,10 @@
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\bin\Debug\N.G.Chapter9LessonAexercise1.exe.config
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\bin\Debug\N.G.Chapter9LessonAexercise1.exe
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\bin\Debug\N.G.Chapter9LessonAexercise1.pdb
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\bin\Debug\N.G.Chapter9LessonAexercise1.xml
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\obj\Debug\N.G.Chapter9LessonAexercise1.Form1.resources
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\obj\Debug\N.G.Chapter9LessonAexercise1.Resources.resources
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\obj\Debug\N.G.Chapter9LessonAexercise1.vbproj.GenerateResource.Cache
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\obj\Debug\N.G.Chapter9LessonAexercise1.exe
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\obj\Debug\N.G.Chapter9LessonAexercise1.xml
+C:\Users\nathangaffney\Desktop\N.G.Chapter9LessonAexercise1\N.G.Chapter9LessonAexercise1\obj\Debug\N.G.Chapter9LessonAexercise1.pdb

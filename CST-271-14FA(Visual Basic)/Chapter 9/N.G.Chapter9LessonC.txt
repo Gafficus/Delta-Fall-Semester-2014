@@ -1,0 +1,7 @@
+'Nathan Gaffney
+'VISUAL BASIC PRG II - CST-271-FA710-14FA-COURSE
+'Chapter 9 Lesson C Exercise 1
+'Two Dimensional Array
+
+Dim intBalance(3,5) AS Integer
+intBalance(1,3) = 100

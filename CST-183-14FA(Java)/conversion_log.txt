@@ -1,0 +1,59 @@
+This is a distance converter.
+Choose which unit to display.
+1. Kilometers
+2. Miles
+3. Yards
+4. Inches
+5. Feet
+6. Close Program
+This is a distance converter.
+Choose which unit to display.
+1. Kilometers
+2. Miles
+3. Yards
+4. Inches
+5. Feet
+6. Close Program
+This is a distance converter.
+Choose which unit to display.
+1. Kilometers
+2. Miles
+3. Yards
+4. Inches
+5. Feet
+6. Close Program
+This is a distance converter.
+Choose which unit to display.
+1. Kilometers
+2. Miles
+3. Yards
+4. Inches
+5. Feet
+6. Close Program
+This is a distance converter.
+Choose which unit to display.
+1. Kilometers
+2. Miles
+3. Yards
+4. Inches
+5. Feet
+6. Close Program
+This is a distance converter.
+Choose which unit to display.
+1. Kilometers
+2. Miles
+3. Yards
+4. Inches
+5. Feet
+6. Close Program
+1
+25.0 meters is 0.025 Kilometers
+2
+25.0 meters is 0.01553425 miles
+3
+25.0 meters is 27.339999999999996 yards
+4
+25.0 meters is 984.2499999999999 inches
+5
+25.0 meters is 82.025 feet
+6

@@ -1,0 +1,21 @@
+C:\Users\droeb_000\Dropbox\Classes\_CST-171\Instructor_Solution_Files_128507792X_394672\VB2012\Chap07\laPassing Solution\Passing Project\bin\Debug\Passing Project.exe.config
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\bin\Debug\Passing Project.exe.config
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\bin\Debug\Passing Project.exe
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\bin\Debug\Passing Project.pdb
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\bin\Debug\Passing Project.xml
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\obj\Debug\Passing_Project.frmMain.resources
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\obj\Debug\Passing_Project.Resources.resources
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\obj\Debug\Passing Project.vbproj.GenerateResource.Cache
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\obj\Debug\Passing Project.exe
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\obj\Debug\Passing Project.xml
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\Student_Data_Files\VB2012\Chap07\laPassing Solution\Passing Project\obj\Debug\Passing Project.pdb
+F:\laPassing Solution_Gaffney\Passing Project\bin\Debug\Passing Project.exe.config
+F:\laPassing Solution_Gaffney\Passing Project\obj\Debug\Passing Project.exe
+F:\laPassing Solution_Gaffney\Passing Project\obj\Debug\Passing Project.xml
+F:\laPassing Solution_Gaffney\Passing Project\obj\Debug\Passing Project.pdb
+F:\laPassing Solution_Gaffney\Passing Project\bin\Debug\Passing Project.exe
+F:\laPassing Solution_Gaffney\Passing Project\bin\Debug\Passing Project.pdb
+F:\laPassing Solution_Gaffney\Passing Project\bin\Debug\Passing Project.xml
+F:\laPassing Solution_Gaffney\Passing Project\obj\Debug\Passing_Project.frmMain.resources
+F:\laPassing Solution_Gaffney\Passing Project\obj\Debug\Passing_Project.Resources.resources
+F:\laPassing Solution_Gaffney\Passing Project\obj\Debug\Passing Project.vbproj.GenerateResource.Cache

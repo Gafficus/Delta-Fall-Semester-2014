@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-size: 10pt;"><em><strong>Variable</strong></em> - is a temporary storage location (in the computers RAM..)&nbsp;for data.&nbsp; The text book uses the analogy of the Excel spreadsheet cells as a "storage location" just like a variable.&nbsp; It is important to also understand <strong>data types</strong> when discussing variables.</span></p>
+<p></p>
+<hr style="width: 40%;" width="40%" />
+<p></p>
+<p><span style="font-size: 10pt;"><em><strong>Data types</strong></em> - are the type, kind, category, (...there are so many synonyms that could be used here...) of value that is stored in a variable or object property.&nbsp; For example, if you wanted to know your monthly salary but all you have is the total amount you earned each week for four weeks, you would need to do "addition."</span></p>
+<ul>
+<li><span style="font-size: 10pt;">Week </span><span style="font-size: 10pt;"><span style="color: #ff6600;"><strong>One</strong><span style="color: #000000;">: $</span></span><span style="color: #0000ff;"><em><strong>125.52</strong></em></span></span></li>
+<li><span style="font-size: 10pt;">Week <span style="color: #ff6600;"><strong>Two</strong></span>: $<span style="color: #0000ff;"><em><strong>125.81</strong></em></span></span></li>
+<li><span style="font-size: 10pt;">Week <strong><span style="color: #ff6600;">Three</span></strong><span style="color: #000000;">: $</span></span><span style="color: #0000ff; font-size: 10pt;"><em><strong>100.74</strong></em></span></li>
+<li><span style="font-size: 10pt;">Week <span style="color: #ff6600;"><strong>Four</strong></span>: $<span style="color: #0000ff;"><em><strong>125.30</strong></em></span></span></li>
+</ul>
+<p><span style="font-size: 10pt;">You could add these values because they are <span style="color: #0000ff;"><em><strong>numeric</strong></em></span> 'types' of data.&nbsp; What you could not add is the One, Two, Three, and Four, because they are <span style="color: #ff6600;"><strong>character</strong></span> (often known as <strong><span style="color: #ff6600;">'string'</span></strong>) 'types' of data.&nbsp; Depending on the programming language (...or database management system) there are many data types.&nbsp; Common data types include: numeric (integer, fixed-point decimal, floating-point decimal, etc.), string (character... including symbols that represent numbers), date (including time), boolean, binary (object), etc.</span></p>
+<p></p>
+<hr style="width: 40%;" width="40%" />
+<p></p>
+<p><span style="font-size: 10pt;"><em><strong>Constant</strong></em> - is the conservative sibling to a variable.&nbsp; Where the variable is more liberal in its behavior of changing when necessary the conservative is more old fashioned and remains steady in its value.&nbsp; (While the program/application is actively processing... the value of a variable may change, for a variety of reasons... thus the name variable.&nbsp; A constant, on the other hand, acts like its name and does not change its value at ANY TIME the program is actively processing.&nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-size: 10pt;">A good example of a variable would be the price of an item at a hardware store.&nbsp; If you purchase&nbsp;3 different items, the clerk will enter the price of each item separately in the cash register as <strong><em>item 1</em></strong>, <strong><em>item 2</em></strong>, <strong><em>item 3</em></strong> (these are variables as you'll see in a moment.)&nbsp; A good example of a constant would be the state <strong><em>sales tax</em></strong>,&nbsp;which is the same value (...a numeric percentage) for each item, regardless of the price.&nbsp; The clerk uses the values of the 3 variables and the 1 constant and determines a <strong><em>total cost</em></strong> (...incidently, another variable!)</span></p>
+<p style="padding-left: 30px;"><span style="font-size: 10pt;">A second customer immediately follows you through the checkout line with 3 entirely different items.&nbsp; The clerk will enter the price of these each of these items into the cash register as <em><strong>item 1</strong></em>, <strong><em>item 2</em></strong>, and <em><strong>item 3</strong></em>... but the <strong><em>sales tax</em></strong> will still be the same value used for your 3 items.&nbsp; (I hope this helps in your understanding of both variables and constants.)</span></p>
+<p></p>
+<hr width="40%" />
+<p></p>
+<p><span style="font-size: 10pt;"><em><strong>Option Explicit</strong></em> - is a Visual Basic command that acts like a light switch in that if the command is issued (at the beginning of a program... in the <em><strong>General Declarations</strong></em> <strong><em>module</em></strong> of the code...) it reguires that most... there are very few exceptions that will be discussed in a later chapter... variables must be 'declared' before they can be used in procedures.&nbsp; This is a very good practice because if it is not 'on' then the programmer can 'make it up as they type' and a variable named <em><strong>item1</strong></em> in one line of code might be referenced as <strong><em>itme1</em></strong> later in the code and the computer would not realize the programmer made a typing error.&nbsp; The program would run, possibly without failure.&nbsp; The result would be, likely, invalid results from the program.</span></p>
+<p></p>
+<hr style="width: 40%;" width="40%" />
+<p></p>
+<p><span style="font-size: 10pt;"><em><strong>Module</strong></em> - is a unit of programming code (declarations and procedures) that 'are related' usually by an object, such as a worksheet in Excel, or for a specific purpose, such as converting units of measure.&nbsp; In VBA for Excel, modules are automatially created for each <em><strong>workbook</strong></em> and <em><strong>worksheet</strong></em>... whether we use them or not.&nbsp; Because these modules pertain to specific 'objects' they are referred as <em><strong>object modules</strong></em>.&nbsp; On the other hand, an example of a standard module would be the <em><strong>General Declarations</strong></em> module mentioned in the explanation of the <strong><em>Option Explicit</em></strong> command.</span></p>
+<p></p>
+<hr style="width: 40%;" width="40%" />
+<p></p>
+<p><span style="font-size: 10pt;"><em><strong>Scope</strong></em> - as it pertains to variables and constants, is the (program processing...) time when&nbsp;a particular variable is visible (accessible) to the program.&nbsp; For example, if you declare/define a variable&nbsp;in the Worksheet1 module and then reference it in the Worksheet2 module, it may not be visible/accessible... depending on the how they were declared: <em><strong>Dim</strong></em>, <strong><em>Private</em></strong>, <strong><em>Public</em></strong>... each will be discussed in a moment.</span></p>
+<p style="padding-left: 30px;"><span style="font-size: 10pt;">Here's an example:&nbsp; The United States is "a nation of laws."&nbsp; (Well, we here that often from our politicians but it's just a 'catch phrase' if those laws aren't enforced... let's assume, for this example... they are.)</span></p>
+<ul>
+<ul>
+<li><span style="font-size: 10pt;">If the law is declared at the national level... each state, county, and municipality can see/access... and abides by the law.</span></li>
+<li><span style="font-size: 10pt;">If the law is declared at the state level... each county and municipality can see/access... and abides by the law... but the nation does not.</span></li>
+<li><span style="font-size: 10pt;">If the law is declared at the municipal level... only that municipality can see/access the law... so it only pertains to them... the state and nation does not have to abide by the law.</span></li>
+<ul>
+<li><span style="color: #3366ff; font-size: 10pt;">Sometimes... a law declared at a lower level, might be found (...by our judicial system) to be applicable to other municipalities, states, or the nation as a whole.&nbsp; (Consider the legal cases of Dred Scott v. Sandford, Brown v. The Board of Education of Topeka, or more recently, The United States v. Arizona over the SB 1070.)</span></li>
+<li><span style="color: #3366ff; font-size: 10pt;">Visual Basic (...as well as other programming languages) have the ability for 'sharing' variables that are created at the 'municipal' level with other municipalities... including the 'state' and 'nation' as a whole.</span></li>
+</ul>
+</ul>
+</ul>
+<p></p>
+<hr style="width: 40%;" width="40%" />
+<p></p>
+<p><span style="font-size: 10pt;"><em><strong>Dim, Private, and Public</strong></em> - are keywords used to declare variables and help define their scope.&nbsp; The Private and Public keywords can only be used in the General Declarations module.&nbsp; If a variable is declared with the Private keyword then its scope is only that module.&nbsp; So, if in the General Declarations module of Worksheet1 you declare: <span style="color: #ff0000;"><strong>Private item1 As Integer</strong></span>... then the variable <em><strong>item1</strong></em> is only visible to/accessible by procedures within Worksheet1.&nbsp; If the same variable was declared: Public item1 As Integer... then it would be visible to/accessible by other worksheets (...and procedures within those worksheets.)</span></p>
+<p></p>
+<hr style="width: 40%;" width="40%" />
+<p><span style="font-size: 10pt;"><em><strong>InputBox()</strong></em> - is a function built into Visual Basic (<strong><em>intrinsic</em></strong> function) which prompts users to enter/type in data that will be used by the program.&nbsp; It is imporant to know that the data entered into the InputBox() text box... is <em><strong>string</strong></em> data... if you want to collect numeric data and then do mathematical calculations with it... you may have to convert the data from string to a numeric data type (<em><strong>Integer</strong></em>, <strong><em>Decimal</em></strong>, etc.) after it is retrieved.</span></p>
+<p><span style="font-size: 10pt;"></span>&nbsp;</p>
+<p><span style="font-size: 10pt;"></span>&nbsp;</p>
+</body>
+</html>

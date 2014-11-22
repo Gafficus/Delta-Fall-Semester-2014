@@ -1,0 +1,28 @@
+int num1= 0;
+for(;num1<=10;num1++)
+{
+}
+
+
+
+//Skip everyother item in a loop
+
+for(num1=0;num1<=10;num1++)
+{
+  num1++l; 
+  output
+}
+
+
+//infinite for loop
+for(;;)
+{
+output
+}
+
+
+//two dimensional data structure
+for(int i=0; i<10;i++)
+{
+   for(int j=0; j<10;j++)
+}

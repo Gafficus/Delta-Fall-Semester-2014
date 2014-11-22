@@ -1,0 +1,22 @@
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.exe.config
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox.accdb
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.exe
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.pdb
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.xml
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox_Project.frmMain.resources
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox_Project.Resources.resources
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.vbproj.GenerateResource.Cache
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.exe
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.xml
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap13\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.pdb
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.exe.config
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.exe
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.xml
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.pdb
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox.accdb
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.exe
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.pdb
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\bin\Debug\MusicBox Project.xml
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox_Project.frmMain.resources
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox_Project.Resources.resources
+C:\Users\nathangaffney\Desktop\MusicBox Solution-LINQ\MusicBox Project\obj\Debug\MusicBox Project.vbproj.GenerateResource.Cache

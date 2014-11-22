@@ -1,0 +1,4 @@
+A variable is a pointer to a location in memory.
+Standar In- Keyboar
+Stardard Out- Monitor
+Standard Error- Monitor (where error messages are displayed)

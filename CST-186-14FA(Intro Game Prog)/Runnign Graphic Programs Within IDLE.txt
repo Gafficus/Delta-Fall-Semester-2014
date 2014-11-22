@@ -1,0 +1,9 @@
+In main must:
+
+Import OS
+
+
+
+At the end of Main:
+
+os._exit(0)

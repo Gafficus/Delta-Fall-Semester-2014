@@ -1,0 +1,10 @@
+F:\Planets Solution\Planets Solution\bin\Debug\Planets Solution.exe.config
+F:\Planets Solution\Planets Solution\bin\Debug\Planets Solution.exe
+F:\Planets Solution\Planets Solution\bin\Debug\Planets Solution.pdb
+F:\Planets Solution\Planets Solution\bin\Debug\Planets Solution.xml
+F:\Planets Solution\Planets Solution\obj\Debug\Planets_Solution.Form1.resources
+F:\Planets Solution\Planets Solution\obj\Debug\Planets_Solution.Resources.resources
+F:\Planets Solution\Planets Solution\obj\Debug\Planets Solution.vbproj.GenerateResource.Cache
+F:\Planets Solution\Planets Solution\obj\Debug\Planets Solution.exe
+F:\Planets Solution\Planets Solution\obj\Debug\Planets Solution.xml
+F:\Planets Solution\Planets Solution\obj\Debug\Planets Solution.pdb

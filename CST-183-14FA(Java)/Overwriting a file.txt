@@ -1,0 +1,2 @@
+Overwriting a file does not ctually delete the file. It only removes the pointer to that original file and replaces it with the pointer to the new file.
+The original file still exists but does not have a pointer.

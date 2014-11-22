@@ -1,0 +1,11 @@
+C:\Users\droeb_000\Dropbox\Classes\_CST-271\StudentDataFiles\Chap10\Gross Pay Solution\Gross Pay Project\bin\Debug\Gross Pay Project.exe.config
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\bin\Debug\Gross Pay Project.exe.config
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\bin\Debug\Gross Pay Project.exe
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\bin\Debug\Gross Pay Project.pdb
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\bin\Debug\Gross Pay Project.xml
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\obj\Debug\Gross_Pay_Project.frmMain.resources
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\obj\Debug\Gross_Pay_Project.Resources.resources
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\obj\Debug\Gross Pay Project.vbproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\obj\Debug\Gross Pay Project.exe
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\obj\Debug\Gross Pay Project.xml
+C:\Users\Nathan\Desktop\Gross Pay Solution\Gross Pay Project\obj\Debug\Gross Pay Project.pdb

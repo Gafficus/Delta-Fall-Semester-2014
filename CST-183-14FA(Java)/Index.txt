@@ -1,0 +1,1 @@
+An index is used to calculate the offset from the beginning of the array. Thus index 0 means there is an offset of 0.

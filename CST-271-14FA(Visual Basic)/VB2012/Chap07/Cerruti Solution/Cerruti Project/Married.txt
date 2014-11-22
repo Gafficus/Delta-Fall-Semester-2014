@@ -1,0 +1,16 @@
+Select Case dblTaxWages
+	Case Is <= 156
+		dblTax = 0
+	Case Is <= 490
+		dblTax = 0.1 * (dblTaxWages - 156)
+	Case Is <= 1515
+		dblTax = 33.4 + 0.15 * (dblTaxWages - 490)
+	Case Is <= 2900
+		dblTax = 187.15 + 0.25 * (dblTaxWages - 1515)
+	Case Is <= 4338
+		dblTax = 533.4 + 0.28 * (dblTaxWages - 2900)
+	Case Is <= 7624
+		dblTax = 936.04 + 0.33 * (dblTaxWages - 4338)
+	Case Else
+		dblTax = 2020.42 + 0.35 * (dblTaxWages - 7624)
+End Select

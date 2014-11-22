@@ -1,0 +1,26 @@
+!1123;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2484;d
+[\012  grasp [\012   legendy -33.0\012   legendx -0.25\012   version 1\012   winflags 3\012   eheight 972\012   ewidth 960\012   height 972\012   width 960\012   wbp 0\012   initlayout 0\012   yoffs -82.875\012   xoffs 55.0\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Instructor"\012    fromclassfiledate 0\012    fromclassfilename "%\011Instructor.class"\012    fromfilename "%\011Instructor.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x 56.5\012     y -85.125\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Course"\012    fromclassfiledate 0\012    fromclassfilename "%\011Course.class"\012    fromfilename "%\011Course.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -118.0\012     y 85.125\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "CourseDemo"\012    fromclassfiledate 0\012    fromclassfilename "%\011CourseDemo.class"\012    fromfilename "%\011CourseDemo.java"\012   ]\012   id 2\012   graphics [\012    center [\012     x 0.0\012     y 85.125\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "author\\011Ljava/lang/String;\\011\\0112\\011\\011\\011TextBook\011publisher\\011Ljava/lang/String;\\011\\0112\\011\\011\\011TextBook\011title\\011Ljava/lang/String;\\011\\0112\\011\\011\\011TextBook\011TextBook\\011(LTextBook;)V\\011c\\0111\\011\\011\\011TextBook\011TextBook\\011(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V\\011c\\0111\\011\\011\\011TextBook\011set\\011(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V\\011\\0111\\011\\011\\011TextBook\011toString\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011TextBook"\012    condition 0\012    access2 0\012    access 2228257\012    classname "TextBook"\012    fromclassfiledate 1415907510000\012    fromclassfilename "%\011TextBook.class"\012    fromfilename "%\011TextBook.java"\012   ]\012   id 3\012   graphics [\012    center [\012     x 118.0\012     y 85.125\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!100;g
+%\011Instructor.java
+%\011TextBook.java
+%\011Course.java
+%\011CourseDemo.java
+%\011testGarbage.java
+!100;f
+%\011Instructor.java
+%\011TextBook.java
+%\011Course.java
+%\011CourseDemo.java
+%\011testGarbage.java

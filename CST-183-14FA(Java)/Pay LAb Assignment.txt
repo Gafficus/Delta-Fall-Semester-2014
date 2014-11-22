@@ -1,0 +1,2 @@
+If the number of hours worked is less than 40, multiply hours by rate, set as pay variable.
+If the number of hours is greater than 40, remove the additional hours from 40 then multiply them by rate *1.5, then add 40 multiplied by rate, set as pay veriable.

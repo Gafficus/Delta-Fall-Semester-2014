@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kensington Project", "Kensington Project\Kensington Project.vbproj", "{2F434FF8-E09B-40B9-BC56-A5D2E08B944F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F434FF8-E09B-40B9-BC56-A5D2E08B944F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F434FF8-E09B-40B9-BC56-A5D2E08B944F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F434FF8-E09B-40B9-BC56-A5D2E08B944F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F434FF8-E09B-40B9-BC56-A5D2E08B944F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

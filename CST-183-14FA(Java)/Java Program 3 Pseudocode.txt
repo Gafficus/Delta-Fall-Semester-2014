@@ -1,0 +1,26 @@
+Prompt for height
+store in height
+Prompt for weight
+store in weight
+Prompt for age
+store in age
+prompt for "not an athlete" || "athlete"
+Boolean Athlete
+
+//Equation time
+BMI = (703 * weight) / (height*height)
+if BMI < 18.5 {weightRange = "underweight"}
+else if BMI <25.0 {weightRange = "Normal"}
+else if BMI <30 {weightRange = "OVerweight"}
+else {weightRange = "Obese"}
+
+MHR = 217 - (.85 * age)
+If athlete && age<50 {MHR -=3}
+else if athlete && age<55 {MHR+=2}
+else if athlete && age>=55 {MHR+=4}
+else MHR = MHR
+
+//optimal range
+lowEnd = .60*MHR
+highENd = .80 * MHR
+DOuble 

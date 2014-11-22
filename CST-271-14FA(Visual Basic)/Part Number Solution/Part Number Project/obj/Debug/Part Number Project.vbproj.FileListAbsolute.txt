@@ -1,0 +1,10 @@
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\bin\Debug\Part Number Project.exe.config
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\bin\Debug\Part Number Project.exe
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\bin\Debug\Part Number Project.pdb
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\bin\Debug\Part Number Project.xml
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\obj\Debug\Part_Number_Project.frmMain.resources
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\obj\Debug\Part_Number_Project.Resources.resources
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\obj\Debug\Part Number Project.vbproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\obj\Debug\Part Number Project.exe
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\obj\Debug\Part Number Project.xml
+C:\Users\Nathan\Desktop\Part Number Solution\Part Number Project\obj\Debug\Part Number Project.pdb

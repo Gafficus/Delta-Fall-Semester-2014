@@ -1,0 +1,14 @@
+'Nathan Gaffney
+'VISUAL BASIC PRG II - CST-271-FA710-14FA-COURSE
+'Chapter 9 Lesson A Exercise 1
+'Two Dimensional Array
+
+Dim intQuantities(14) As Integer
+intQuantities(1) = 10
+
+
+
+
+
+
+
