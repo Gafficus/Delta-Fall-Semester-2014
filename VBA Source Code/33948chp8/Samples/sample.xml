@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample>
+	<random>
+		<label>A</label>
+		<data>1</data>
+	</random>
+	<random>
+		<label>B</label>
+		<data>2</data>
+	</random>
+	<random>
+		<label>C</label>
+		<data>3</data>
+	</random>
+</sample>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<student>
+		<name>Fred Flintstone</name>
+		<test>test1</test>
+		<score>25</score>
+	</student>
+	<student>
+		<name>Barney Rubbel</name>
+		<test>test1</test>
+		<score>100</score>
+	</student>
+	<student>
+		<name>Elmer Fudd</name>
+		<test>test1</test>
+		<score>100</score>
+	</student>
+</results>
