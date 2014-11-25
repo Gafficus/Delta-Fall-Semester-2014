@@ -1,3 +1,7 @@
+/*Created by Nathan Gaffney
+24/11/2014
+Create a PoliceOfficer Object
+*/
 public class PoliceOfficer
 {
    private String name;

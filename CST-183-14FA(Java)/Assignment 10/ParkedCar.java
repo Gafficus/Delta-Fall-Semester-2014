@@ -11,6 +11,16 @@ public class ParkedCar
   private String licenseNum;
   private int minsParked; 
   
+  public ParkedCar(String a, String b, String c, String d, int i)
+  {
+   make=a;
+   model=b;
+   color=c;
+   licenseNum=d;
+   minsParked= i;
+   System.out.println(minsParked);
+   System.out.println(model);
+  }
   public String getMake()
   {
    return make;
@@ -25,7 +35,7 @@ public class ParkedCar
   }
   public String getModel()
   {
-   return make;
+   return model;
   }
   /**
   This method will set the model field.
