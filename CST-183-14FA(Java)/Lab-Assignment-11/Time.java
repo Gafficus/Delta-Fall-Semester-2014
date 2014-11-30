@@ -1,5 +1,6 @@
 /**Represents time in hours and minutes using
 the customary conventions*/
+import java.util.StringTokenizer;
 public class Time
 {
 	/**hours in conventional time*/
@@ -21,7 +22,7 @@ public class Time
 				"You must enter a valid miliary time." );
 		}
 		//Check to make sure there are 5  characters
-		else if (//CONDITION TO CHECK LENGTH OF STRING)
+		else if (militaryTime.length()>5||militaryTime.length()<5)
 		{
 			System.out.println(militaryTime +
 				" is not a valid miliary time." );
@@ -30,28 +31,28 @@ public class Time
 		{
 			//Check to make sure the colon is in
 			//the correct spot
-			if (//CONDITION TO CHECK COLON POSITION)
+			if (militaryTime.indexOf(":")!=2)
 			{
 				System.out.println(militaryTime +
 					" is not a valid miliary time." );
 			}
 			//Check to make sure all other characters are digits
-			else if (//CONDITION TO CHECK FOR DIGIT)
+			else if (!Character.isDigit(militaryTime.charAt(0)))
 			{
 				System.out.println(militaryTime +
 					" is not a valid miliary time." );
 			}
-			else if (//CONDITION TO CHECK FOR DIGIT)
+			else if (!Character.isDigit(militaryTime.charAt(1)))
 			{
 				System.out.println(militaryTime +
 					" is not a valid miliary time." );
 			}
-			else if (//CONDITION TO CHECK FOR DIGIT)
+			else if (!Character.isDigit(militaryTime.charAt(3)))
 			{
 				System.out.println(militaryTime +
 					" is not a valid miliary time." );
 			}
-			else if (//CONDITION TO CHECK FOR DIGIT)
+			else if (!Character.isDigit(militaryTime.charAt(4)))
 			{
 				System.out.println(militaryTime +
 					" is not a valid miliary time." );
@@ -62,7 +63,11 @@ public class Time
 				//AND THE MINUTES, CONVERTING THEM TO
 				//INTEGERS AND STORING INTO THE
 				//INSTANCE VARIABLES
-
+            StringTokenizer strTokenizer =
+               new StringTokenizer(militaryTime,":");
+            hours = Integer.parseInt(strTokenizer.nextToken());
+            minutes = Integer.parseInt(strTokenizer.nextToken());
+            
 				//validate hours and minutes are valid values
 				if(hours > 23)
 				{

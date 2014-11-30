@@ -18,8 +18,6 @@ public class ParkedCar
    color=c;
    licenseNum=d;
    minsParked= i;
-   System.out.println(minsParked);
-   System.out.println(model);
   }
   public String getMake()
   {

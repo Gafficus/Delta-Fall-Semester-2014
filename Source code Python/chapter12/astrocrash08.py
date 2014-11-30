@@ -185,7 +185,7 @@ class Missile(Collider):
     def update(self):
         """ Move the missile. """
         super(Missile, self).update()
-
+        
         # if lifetime is up, destroy the missile
         self.lifetime -= 1
         if self.lifetime == 0:

@@ -6,6 +6,7 @@ public class ParkingTicket
    private String carModel;
    private String carColor;
    private String carLicense;
+   private int timeParked;
    //From PoliceOfficer
    private String officerName;
    private String officerBadge;
@@ -19,20 +20,23 @@ public class ParkingTicket
      carMake = a.getMake();
      carModel = a.getModel();
      carColor = a.getColor();
-     carLicense = a.getLicenseNum(); 
+     carLicense = a.getLicenseNum();
+     timeParked = a.getMinsParked(); 
      //Set Officer Data
      officerName = b.getName();
      officerBadge = b.getBadge();
    }
    public void setAmountTicket(ParkingMeter g)
    {
-      if(Math.ceil(g.getMinsPurchased()/60.0)<=1)
+      int extraTime;
+      extraTime = timeParked - g.getMinsPurchased();
+      if(timeParked<=60)
       {
          amountTicket = 25;
       }
       else
       {
-         amountTicket = 25 + 10*(Math.ceil(g.getMinsPurchased()/60)-1);
+         amountTicket = 25 + 10*(extraTime/60);
       }
    }
    public String toString()
