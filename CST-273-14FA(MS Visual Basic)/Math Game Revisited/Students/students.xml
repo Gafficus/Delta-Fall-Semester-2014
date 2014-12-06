@@ -2,7 +2,7 @@
 <students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<student>
 		<name>Fred Flintstone</name>
-		<level>2</level>
+		<level>1</level>
 	</student>
 	<student>
 		<name>Barney Rubbel</name>
@@ -32,4 +32,5 @@
 		<name>Wile E. Coyote</name>
 		<level>1</level>
 	</student>
+	<student/>
 </students>

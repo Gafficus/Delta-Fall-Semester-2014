@@ -231,7 +231,6 @@ class Game(object):
                                 right = games.screen.width - 10,
                                 is_collideable = False)
         games.screen.add(self.score)
-
         # create player's ship
         self.ship = Ship(game = self, 
                          x = games.screen.width/2,

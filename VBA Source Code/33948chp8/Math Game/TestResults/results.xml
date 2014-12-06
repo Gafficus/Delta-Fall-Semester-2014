@@ -3,16 +3,6 @@
 	<student>
 		<name>Fred Flintstone</name>
 		<test>test1</test>
-		<score>25</score>
-	</student>
-	<student>
-		<name>Barney Rubbel</name>
-		<test>test1</test>
-		<score>100</score>
-	</student>
-	<student>
-		<name>Elmer Fudd</name>
-		<test>test1</test>
 		<score>100</score>
 	</student>
 </results>
