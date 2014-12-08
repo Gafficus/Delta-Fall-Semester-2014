@@ -1,0 +1,25 @@
+Nathan Gaffney
+CST 186 INTRO GAME PROG
+7/DEC2014
+Chapter 11 Project 1
+This project will use 2 classes
+
+The CHef class:
+This class wll have the following methods:
+init
+check for collision
+move left and right based on mouse
+
+The Rock class:
+This class will contain the number of rocks to go on screen.
+It will need methods to:
+Update
+End Game
+init
+spawn multiple rocks
+
+
+main()
+Spawn Chef
+Spawn Rock
+game start
