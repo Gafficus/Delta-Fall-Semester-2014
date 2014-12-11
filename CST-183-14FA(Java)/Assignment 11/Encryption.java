@@ -12,6 +12,7 @@ public class Encryption
          Modify the ascii codes +13
          if code> 13 dont add but subtract
       */
+      StringBuilder encrypted = new StringBuilder(data);
       for(int i=0;i < data.length();i++)
       {
          int intValue = CharUtils.CharToASCII(data.charAt(i));
@@ -28,12 +29,13 @@ public class Encryption
             }
             else
             {
-               System.out.println("shit fucked up yo.");
+               System.out.println("Failure State.");
             }
          }
          
-         data.charAt(i) = CharUtils.ASCIIToChar(intValue);
+         encrypted.setCharAt(i,CharUtils.ASCIIToChar(intValue));
       }
+      return encrypted.toString();
        
    }
    public static String decrypt(String data)
@@ -45,6 +47,7 @@ public class Encryption
          if code<13 dont subtract but add
       
       */
+      StringBuilder decrypted = new StringBuilder(data);
       for(int i=0;i <data.length();i++)
       {
          int intValue = CharUtils.CharToASCII(data.charAt(i));
@@ -61,12 +64,12 @@ public class Encryption
             }
             else
             {
-               System.out.println("shit fucked up yo.");
+               System.out.println("Extreme Failure.");
             }
          }
          
-         data.charAt(i) = CharUtils.ASCIIToChar(intValue);
+         decrypted.setCharAt(i,CharUtils.ASCIIToChar(intValue));
       }
-      return data;
+      return decrypted.toString();
    }
 }
